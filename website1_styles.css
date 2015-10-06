@@ -1,1 +1,25 @@
-css
+body {
+	background-color: #616161;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 500%;
+	font-family: apple casual;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 200%;
+	font-family: apple casual;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.text {
+	font-family: apple casual;
+	color: #FFFFFF;
+	text-align: center;
+}
