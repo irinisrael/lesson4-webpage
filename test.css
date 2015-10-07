@@ -27,6 +27,29 @@ h4 {
 	float: center;
 }
 
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    float: left;
+    text-align: center;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
+
+
 .alex {
 	width: 20%;
 	padding: 1%;
@@ -52,16 +75,7 @@ h4 {
 	position: fixed;
 }
 
-img {
-	width: 80%;
-}
-
-li {
-	float: right;
-	margin-right: 20%;
-}
-
-a {
+.photos {
 	font-family: apple casual;
-	color: #00CC00;
+	color: #FFFFFF;
 }
