@@ -1,1 +1,33 @@
-css3
+body {
+	background-color: #616161;
+}
+
+h4 {
+	font-weight: bold;
+	font-size: 200%;
+	font-family: apple casual;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+img {
+	width: 35%;
+}
+
+.irin {
+	font-size: 200%;
+	font-family: apple casual;
+	color: #FFFFFF;
+}
+
+
+
+li {
+	float: right;
+	margin-left: 60%;
+}
+
+a {
+	font-family: arial;
+	color: #00CC00;
+}
