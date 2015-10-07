@@ -1,0 +1,34 @@
+body {
+	background-color: #616161;
+}
+
+h4 {
+	font-weight: bold;
+	font-size: 200%;
+	font-family: apple casual;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+img {
+	width: 35%;
+	float: left;
+}
+
+.main {
+	font-family: arial;
+	color: #FFFFFF;
+	text-align: left;
+	float: right;
+	padding-right: 20%;
+}
+
+li {
+	float: right;
+	margin-left: 60%;
+}
+
+a {
+	font-family: arial;
+	color: #00CC00;
+}

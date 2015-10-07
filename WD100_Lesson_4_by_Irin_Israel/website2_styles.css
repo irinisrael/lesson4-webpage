@@ -1,0 +1,39 @@
+body {
+	background-color: #616161;
+}
+
+h4 {
+	font-weight: bold;
+	font-size: 200%;
+	font-family: apple casual;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.column1 {
+	width: 46%;
+	padding: 1%;
+	float: left;
+	font-family: arial;
+	color: #FFFFFF;
+	text-align: right;
+}
+
+.column2 {
+	width: 46%;
+	padding: 1%;
+	float: left;
+	font-family: arial;
+	color: #FFFFFF;
+	text-align: left;
+}
+
+li {
+	float: right;
+	margin-left: 60%;
+}
+
+a {
+	font-family: arial;
+	color: #00CC00;
+}
