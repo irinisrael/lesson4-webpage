@@ -1,0 +1,81 @@
+body {
+	background-color: #616161;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 500%;
+	font-family: apple casual;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+h4 {
+	font-weight: bold;
+	font-size: 200%;
+	font-family: apple casual;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.main {
+	font-family: arial;
+	color: #FFFFFF;
+	text-align: center;
+	margin-left: 30%;
+	margin-right: 30%;
+	float: center;
+}
+
+.alex {
+	width: 20%;
+	padding: 1%;
+	border: 1% solid black;
+	margin: 1%;
+	float: left;
+}
+
+.ellis {
+	width: 18%;
+	padding: 1%;
+	border: 1% solid black;
+	margin: 1%;
+	float: right;
+}
+
+.lexi {
+	width: 20%;
+	padding: 1%;
+	border: 1% solid black;
+	margin: 2%;
+	float: right;
+	/*position: fixed;*/
+}
+
+li {
+	float: right;
+	margin-right: 20%;
+}
+
+a {
+	font-family: arial;
+	color: #00CC00;
+}
+
+#column-1 {
+	background-color: red;
+	float: left;
+	width: 220px;
+	padding: 10px;
+	margin-left: 25px;
+}
+
+.photo {
+	width: 100%;
+}
+
+h5 {
+	color: white;
+}
+
+
