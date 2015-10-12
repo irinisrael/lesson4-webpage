@@ -10,29 +10,32 @@ h4 {
 	text-align: center;
 }
 
-.column1 {
+.columns {
 	width: 46%;
 	padding: 1%;
-	float: left;
+	margin: 1%;
 	font-family: arial;
 	color: #FFFFFF;
+	font-size: 19px;
+}
+
+#column-1 {
+	float: left;
+	clear: left;
 	text-align: right;
 	font-size: 19px;
 }
 
-.column2 {
-	width: 46%;
-	padding: 1%;
+#column-2 {
 	float: left;
-	font-family: arial;
-	color: #FFFFFF;
+	clear: right;
 	text-align: left;
-	font-size: 19px;
 	margin-bottom: 100px;
 }
 
 li {
 	float: right;
+	clear: right;
 	margin-left: 60%;
 	margin-right: 50px;
 }
@@ -40,5 +43,4 @@ li {
 a {
 	font-family: arial;
 	color: #00CC00;
-
 }

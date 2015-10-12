@@ -25,23 +25,25 @@ h4 {
 	margin-left: 30%;
 	margin-right: 30%;
 	float: center;
+	clear: center;
 	font-size: 20px;
+}
+
+.columns {
+	width: 270px;
+	padding: 10px;
+	margin-right: 25px;
+	margin-left: 25px;
 }
 
 #column-1 {
 	float: left;
-	width: 270px;
-	padding: 10px;
-	margin-right: 25px;
-	margin-left: 25px;
+	clear: left;	
 }
 
 #column-3 {
 	float: right;
-	width: 270px;
-	padding: 10px;
-	margin-right: 25px;
-	margin-left: 25px;
+	clear: right;
 	margin-bottom: 300px;
 }
 
@@ -74,6 +76,7 @@ h5 {
 
 li {
 	float: right;
+	clear: right;
 	margin-right: 20%;
 }
 

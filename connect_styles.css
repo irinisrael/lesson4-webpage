@@ -12,6 +12,7 @@ h4 {
 
 #column-1 {
 	float: left;
+	clear: left;
 	width: 500px;
 	padding: 10px;
 	margin-right: 25px;
@@ -39,6 +40,7 @@ h5 {
 	color: #FFFFFF;
 	text-align: left;
 	float: right;
+	clear: right;
 	padding-right: 150px;
 	padding-top: 100px;
 }
@@ -58,6 +60,7 @@ h5 {
 
 li {
 	float: right;
+	clear:;
 }
 
 a {
